@@ -1,4 +1,4 @@
 Hellow World
-contributors: nicky
+contributors: nicky, test
 # git-test
 Test Github Repo
